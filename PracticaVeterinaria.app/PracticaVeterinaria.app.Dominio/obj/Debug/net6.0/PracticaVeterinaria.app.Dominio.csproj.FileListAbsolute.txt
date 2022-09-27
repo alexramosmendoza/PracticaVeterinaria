@@ -1,0 +1,12 @@
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\bin\Debug\net6.0\PracticaVeterinaria.app.Dominio.deps.json
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\bin\Debug\net6.0\PracticaVeterinaria.app.Dominio.dll
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\bin\Debug\net6.0\PracticaVeterinaria.app.Dominio.pdb
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.csproj.AssemblyReference.cache
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.AssemblyInfoInputs.cache
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.AssemblyInfo.cs
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.csproj.CoreCompileInputs.cache
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.dll
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\refint\PracticaVeterinaria.app.Dominio.dll
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\PracticaVeterinaria.app.Dominio.pdb
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Dominio\obj\Debug\net6.0\ref\PracticaVeterinaria.app.Dominio.dll
