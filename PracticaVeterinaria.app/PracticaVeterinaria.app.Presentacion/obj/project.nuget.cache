@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W71IhbFfnpU1IxfluT8mJsup2xq+PYdoXqhobxvW3oezV6sVKOWJD2DpgbFHT4LO04V7etxabz/cFNc+pxVecQ==",
+  "dgSpecHash": "L3UvBvqefAMVON1vQ1O+FIkc6SWrZKbYCTZxjG3Gr9wOkMX8cZf77dliSRMQfywPvREdPrFNYPXRXXAbzHOalw==",
   "success": true,
-  "projectFilePath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\Practicaveterinaria.app.Presentacion\\PracticaVeterinaria.app.Presentacion.csproj",
+  "projectFilePath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Presentacion\\PracticaVeterinaria.app.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Portatil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Portatil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

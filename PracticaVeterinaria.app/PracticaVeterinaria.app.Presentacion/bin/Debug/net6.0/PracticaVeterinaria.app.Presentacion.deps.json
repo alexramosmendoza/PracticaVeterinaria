@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
-          "PracticaVeterinaria.app.Dominio": "1.0.0"
+          "PracticaVeterinaria.app.Dominio": "1.0.0",
+          "PracticaVeterinaria.app.Persistencia": "1.0.0"
         },
         "runtime": {
           "PracticaVeterinaria.app.Presentacion.dll": {}
@@ -1009,6 +1010,16 @@
         "runtime": {
           "PracticaVeterinaria.app.Dominio.dll": {}
         }
+      },
+      "PracticaVeterinaria.app.Persistencia/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "PracticaVeterinaria.app.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PracticaVeterinaria.app.Persistencia.dll": {}
+        }
       }
     }
   },
@@ -1698,6 +1709,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "PracticaVeterinaria.app.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaVeterinaria.app.Persistencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

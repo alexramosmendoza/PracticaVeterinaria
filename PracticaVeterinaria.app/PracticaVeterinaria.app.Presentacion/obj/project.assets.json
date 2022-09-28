@@ -1773,6 +1773,21 @@
         "runtime": {
           "bin/placeholder/PracticaVeterinaria.app.Dominio.dll": {}
         }
+      },
+      "PracticaVeterinaria.app.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkcore": "5.0.0",
+          "Microsoft.EntityFrameworkcore.sqlServer": "5.0.0",
+          "PracticaVeterinaria.app.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PracticaVeterinaria.app.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PracticaVeterinaria.app.Persistencia.dll": {}
+        }
       }
     }
   },
@@ -6046,6 +6061,11 @@
       "type": "project",
       "path": "../PracticaVeterinaria.app.Dominio/PracticaVeterinaria.app.Dominio.csproj",
       "msbuildProject": "../PracticaVeterinaria.app.Dominio/PracticaVeterinaria.app.Dominio.csproj"
+    },
+    "PracticaVeterinaria.app.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../PracticaVeterinaria.app.Persistencia/PracticaVeterinaria.app.Persistencia.csproj",
+      "msbuildProject": "../PracticaVeterinaria.app.Persistencia/PracticaVeterinaria.app.Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6054,7 +6074,8 @@
       "Microsoft.EntityFrameworkcore.design >= 5.0.0",
       "Microsoft.EntityFrameworkcore.sqlServer >= 5.0.0",
       "Microsoft.EntityFrameworkcore.tools >= 5.0.0",
-      "PracticaVeterinaria.app.Dominio >= 1.0.0"
+      "PracticaVeterinaria.app.Dominio >= 1.0.0",
+      "PracticaVeterinaria.app.Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6063,11 +6084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\Practicaveterinaria.app.Presentacion\\PracticaVeterinaria.app.Presentacion.csproj",
+      "projectUniqueName": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Presentacion\\PracticaVeterinaria.app.Presentacion.csproj",
       "projectName": "PracticaVeterinaria.app.Presentacion",
-      "projectPath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\Practicaveterinaria.app.Presentacion\\PracticaVeterinaria.app.Presentacion.csproj",
+      "projectPath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Presentacion\\PracticaVeterinaria.app.Presentacion.csproj",
       "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\Practicaveterinaria.app.Presentacion\\obj\\",
+      "outputPath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6084,6 +6105,9 @@
           "projectReferences": {
             "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Dominio\\PracticaVeterinaria.app.Dominio.csproj": {
               "projectPath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Dominio\\PracticaVeterinaria.app.Dominio.csproj"
+            },
+            "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Persistencia\\PracticaVeterinaria.app.Persistencia.csproj": {
+              "projectPath": "F:\\PracticaVeterinaria\\PracticaVeterinaria.app\\PracticaVeterinaria.app.Persistencia\\PracticaVeterinaria.app.Persistencia.csproj"
             }
           }
         }

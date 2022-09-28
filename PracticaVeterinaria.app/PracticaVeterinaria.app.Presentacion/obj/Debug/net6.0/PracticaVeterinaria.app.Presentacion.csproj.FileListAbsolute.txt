@@ -65,3 +65,5 @@ F:\PracticaVeterinaria\PracticaVeterinaria.app\Practicaveterinaria.app.Presentac
 F:\PracticaVeterinaria\PracticaVeterinaria.app\Practicaveterinaria.app.Presentacion\bin\Debug\net6.0\PracticaVeterinaria.app.Dominio.dll
 F:\PracticaVeterinaria\PracticaVeterinaria.app\Practicaveterinaria.app.Presentacion\bin\Debug\net6.0\PracticaVeterinaria.app.Dominio.pdb
 F:\PracticaVeterinaria\PracticaVeterinaria.app\Practicaveterinaria.app.Presentacion\obj\Debug\net6.0\PracticaVeterinaria.app.Presentacion.csproj.CopyComplete
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Presentacion\bin\Debug\net6.0\PracticaVeterinaria.app.Persistencia.dll
+F:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Presentacion\bin\Debug\net6.0\PracticaVeterinaria.app.Persistencia.pdb

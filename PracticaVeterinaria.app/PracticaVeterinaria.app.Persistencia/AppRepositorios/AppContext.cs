@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 
 using PracticaVeterinaria.app.Dominio;
+using PracticaVeterinaria.app.Persistencia.AppRepositorios;
 
 namespace PracticaVeterinaria.app.Persistencia
 {

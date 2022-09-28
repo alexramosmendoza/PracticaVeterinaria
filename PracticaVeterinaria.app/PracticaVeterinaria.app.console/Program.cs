@@ -2,5 +2,6 @@
 
 using System;
 using PracticaVeterinaria.app.Dominio;
+using PracticaVeterinaria.app.Persistencia;
 
 Console.WriteLine("Hello, World!");
